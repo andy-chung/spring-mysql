@@ -1,3 +1,6 @@
+# spring boot pet clinic at aliyun
+http://139.224.231.232/
+
 # spring-mysql
 1. originates from [https://spring.io/guides/gs/accessing-data-mysql/](https://spring.io/guides/gs/accessing-data-mysql/)
 1. uses spring data JPA hibernate to access database
